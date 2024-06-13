@@ -1,0 +1,12 @@
+flask
+flask_cors
+opencv-python
+numpy
+pandas
+tqdm
+matplotlib
+pafy
+pytube
+nltk
+scikit-learn
+pymongo
